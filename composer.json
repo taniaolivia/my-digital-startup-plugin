@@ -1,0 +1,16 @@
+{
+    "name": "taniaolivia/my-digital-startup-plugin",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Taniaolivia\\MyDigitalStartupPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tania Olivia",
+            "email": "tania.olivia69@yahoo.com"
+        }
+    ],
+    "require": {}
+}
